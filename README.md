@@ -1,2 +1,4 @@
 # SOPT24-SERVER
-homework
+과제
+
+쉽지 않다.
